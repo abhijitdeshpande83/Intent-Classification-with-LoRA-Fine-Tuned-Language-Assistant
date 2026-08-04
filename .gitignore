@@ -1,0 +1,9 @@
+.env
+.DS_Store
+._*
+cu.sh
+
+# INTELLA Project
+
+/venv
+__pycache__
